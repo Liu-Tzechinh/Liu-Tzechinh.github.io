@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Liu-Tzechinh.github.io/al-folio/sitemap.xml
+Sitemap: https://Liu-Tzechinh.github.io/sitemap.xml
